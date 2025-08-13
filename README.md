@@ -1,1 +1,1 @@
-# education_info
+Developed an intelligent learning platform that leverages the Gemini 2.5 API to provide users with a comprehensive resource for learning various topics. The platform allows users to input a topic name and receives a short description, relevant PDFs, video links, and tutorial links. The user interface is built using HTML,CSS ,JavaScript and used Flask at backend ,providing an intuitive and user- friendly experience.
